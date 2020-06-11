@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MediaWikiActionAPI_Davy</string>
+    <string name="idTime">Tijd</string>
+    <string name="idUser">Gebruiker</string>
+    <string name="idName">Naam</string>
+    <string name="appBy">Door Davy Raitt</string>
+    <string name="enterApp">Betreed de app!</string>
+    <string name="reload">Herladen!</string>
+    <string name="save">Opslaan!</string>
+    <string name="amountPics">Aantal afbeeldingen:</string>
+</resources>

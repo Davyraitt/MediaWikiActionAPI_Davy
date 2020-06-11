@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">MediaWikiActionAPI_Davy</string>
+    <string name="idTime">Time</string>
+    <string name="idUser">User</string>
+    <string name="idName">Name</string>
+    <string name="appBy">By Davy Raitt</string>
+    <string name="enterApp">Enter the app</string>
+    <string name="reload">Reload!</string>
+    <string name="save">Save!</string>
+    <string name="amountPics">Amount of pictures:</string>
+
+
+
+
 </resources>
